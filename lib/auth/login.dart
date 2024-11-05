@@ -158,7 +158,7 @@ class _LoginState extends State<Login> {
                         TextSpan(
                           text: "Register",
                           style: TextStyle(
-                            color: Colors.deepPurpleAccent,
+                            color: Color.fromARGB(255, 222, 177, 41),
                             fontWeight: FontWeight.bold,
                           ),
                         ),
